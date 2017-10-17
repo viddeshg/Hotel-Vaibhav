@@ -2,38 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="151737d2-f087-458a-b087-9959e2919ce8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bg1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bg2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bg3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bgs-11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bgs-22.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bgs-33.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ga1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ga10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ga11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ga12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ga13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ga2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ga4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ga5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ga7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ga8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/m1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/s44.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cafe1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cafe2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cafe3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/room1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/room2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/room3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sit1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sit2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sit3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/1.jpg" afterPath="$PROJECT_DIR$/images/1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/2.jpg" afterPath="$PROJECT_DIR$/images/2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/3.jpg" afterPath="$PROJECT_DIR$/images/3.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -48,7 +17,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="91">
+            <state relative-caret-position="-4744">
               <caret line="129" column="41" lean-forward="false" selection-start-line="129" selection-start-column="41" selection-end-line="129" selection-end-column="41" />
               <folding>
                 <element signature="e#5468#5475#1" expanded="true" />
@@ -302,12 +271,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1508085830300</updated>
-      <workItem from="1508085831729" duration="6662000" />
+      <workItem from="1508085831729" duration="6904000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6662000" />
+    <option name="totallyTimeSpent" value="6904000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -352,7 +321,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
+        <state relative-caret-position="-4744">
           <caret line="129" column="41" lean-forward="false" selection-start-line="129" selection-start-column="41" selection-end-line="129" selection-end-column="41" />
           <folding>
             <element signature="e#5468#5475#1" expanded="true" />
